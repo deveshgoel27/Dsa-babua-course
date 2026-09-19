@@ -6,7 +6,7 @@ Instead of solving 1000 random questions, you'll learn how to **think in pattern
 ---
 
 ## 🚀 Pre-requistes of Babua DSA Patterns Sheet 2025
-[Onboarding Sheet](https://github.com/team-codebug/babua-dsa-patterns-course/blob/main/ONBOARDING.md)
+[Onboarding Sheet](./ONBOARDING.md)
 
 
 ## 🚀 Babua DSA Patterns Sheet 2025
